@@ -2,7 +2,7 @@
 
 Introduction:
 
-For this project, we are required to program a parser using the scanner from the previous project.The program was made with Java code. It consists of 3 files, Parser.java which is used to run the entire program, Automata Scanner which scans through the file, and Input.java which is used to hold all of the tokens and data from those tokens to be printed.
+For this project, we are required to program a parser using the scanner from the previous project. The program was made with Java and it consists of 3 files, Parser.java which is used to run the entire program, Automata Scanner.java which scans through the file, and Input.java which is used to hold all of the tokens and data from those tokens to be printed.
 
 Data Structures:
 
